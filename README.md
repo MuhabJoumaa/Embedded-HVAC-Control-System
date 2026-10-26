@@ -14,6 +14,7 @@ The system consists of two main components:
 - C
 - Assembly
 - PIC18F45K22 microcontroller
+- IDE / Development Environment: MPLAB IDE
 - Embedded systems programming
 - Sensor interfacing and hardware-level control
 
